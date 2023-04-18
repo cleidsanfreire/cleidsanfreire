@@ -13,3 +13,6 @@ Programador Front-End
 
 <div>
   <a href="http://beacons.ai/Cleidsan"> 
+  <img height="180em" src"http://github-readme-stats.vercel.app/api?username=Cleidsan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src"http://github-readme-stats.vercel.app/api/top-langs/?username=Cleidsan&layout=compact&langs_count=16&theme=dracula"/>
+    </div>
