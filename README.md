@@ -1,9 +1,9 @@
 <h1 align="center">  Oi, eu sou o Cleidsan. 😎
 
-## Programador Front-End
+## Desenvolvedor Front-End
 
 - 🔭 Hoje eu trabalho com Front-End
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo e aprimorando JavaScript, jQuery e Bootstrap.
   
 ##
 
