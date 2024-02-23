@@ -3,9 +3,9 @@
 ## Desenvolvedor
 
 -  Apaixonado por Codigos
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Conhecimentos em Front-End, HTML, CSS e JavaScript e seus Framework.
 - 🌱 Atualmente estou estudando o Back-End procuro por conhecimentos na área.
+- 🔭 Conhecimentos em Front-End, HTML, CSS e JavaScript e seus Framework.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
   
 ##
 
