@@ -2,16 +2,16 @@
 
 ## Backend Developer
 
-- Passionate about Codes
-- 🌱 I'm currently studying Back-End and looking for knowledge in the area.
-- 🔭 Knowledge of Front-End, HTML, CSS and JavaScript and their Framework.
+- Passionate about Codes and Games.
+- 🌱 I'm currently studying Back-End - Java and C#, looking for knowledge in the area.
+- 🔭 Knowledge of Front-End, HTML, CSS and JavaScript.
 - 🔭 Systems Analysis and Development Student
 
 ## Desenvolvedor Backend
 
--  Apaixonado por Codigos
-- 🌱 Atualmente estou estudando o Back-End procuro por conhecimentos na área.
-- 🔭 Conhecimentos em Front-End, HTML, CSS e JavaScript e seus Framework.
+-  Apaixonado por Códigos e Jogos.
+- 🌱 Atualmente estou estudando Back-End - Java e C#, Buscando por conhecimentos na área.
+- 🔭 Conhecimentos em Front-End, HTML, CSS e JavaScript.
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
   
 ##
