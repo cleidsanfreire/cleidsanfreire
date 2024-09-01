@@ -1,5 +1,12 @@
 <h1 align="center">  Hi, I'm Cleidsan. 😎
 
+## Backend Developer
+
+- Passionate about Codes
+- 🌱 I'm currently studying Back-End and looking for knowledge in the area.
+- 🔭 Knowledge of Front-End, HTML, CSS and JavaScript and their Framework.
+- 🔭 Systems Analysis and Development Student
+
 ## Desenvolvedor Backend
 
 -  Apaixonado por Codigos
