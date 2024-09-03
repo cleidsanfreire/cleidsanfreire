@@ -37,11 +37,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Freire-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Freire-Python" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=ffffff">
+  <img align="center" alt="Freire-C#" height="50" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor">
   <img align="center" alt="Freire-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Freire-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Freire-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Freire-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Freire-pic" height="250" style="border-radius:50px;" src="https://pbs.twimg.com/media/E7Gt0MEWQAA16m1.jpg">
 </div>
      
