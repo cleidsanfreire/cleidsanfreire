@@ -1,13 +1,16 @@
 <h1 align="center">  Hi, I'm Cleidsan. 😎
 
 ## Backend Developer
+<img align="right" alt="Freire-pic" height="150" src="https://i.gifer.com/7s28.gif">
 
-- Passionate about Codes and Games.
+- Passionate about Codes and Games.  
 - 🌱 I'm currently studying Back-End - Java and C#, looking for knowledge in the area.
 - 🔭 Knowledge of Front-End, HTML, CSS and JavaScript.
 - 🔭 Systems Analysis and Development Student
 
 ## Desenvolvedor Backend
+
+<img align="right" alt="Freire-pic" height="200" src="https://camo.githubusercontent.com/66fd1a0c8be5d095bf2d4ce05282f371573cf2acf5ed84bacaeb6d34ae2f38b6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b646464497136725a4a49456248566c486b2f67697068792e676966">
 
 -  Apaixonado por Códigos e Jogos.
 - 🌱 Atualmente estou estudando Back-End - Java e C#, Buscando por conhecimentos na área.
@@ -42,7 +45,7 @@
   <img align="center" alt="Freire-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Freire-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Freire-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Freire-pic" height="250" style="border-radius:50px;" src="https://pbs.twimg.com/media/E7Gt0MEWQAA16m1.jpg">
+  <img align="right" alt="Freire-pic" height="250" src="https://media.tenor.com/1k-0aBUy3WMAAAAM/black-clover-anime.gif">
 </div>
      
 
