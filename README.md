@@ -33,18 +33,14 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Freire-Python" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=ffffff">
-  <img align="center" alt="Freire-C#" height="50" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor">
-  <img align="center" alt="Freire-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Freire-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Freire-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="Freire-C#" height="50" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
+  <img align="center" alt="Freire-C#" height="50" width="60" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png">
 </div>
      
 
